@@ -1,15 +1,15 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="emmimannonen.fi" resolutions="1x,2x" timestamp="1542194608989">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="emmimannonen.fi" resolutions="1x,2x" timestamp="1542195926579">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="362325015" ref="my-main-goal:index:contact:why-me"/>
     <file name="nomq_preview_master_a-master.css" crc="4022337170" ref="my-main-goal:index:contact:why-me"/>
-    <file name="my-main-goal.css" crc="490946315" ref="my-main-goal"/>
+    <file name="my-main-goal.css" crc="3949237686" ref="my-main-goal"/>
     <file name="nomq_my-main-goal.css" crc="3865473001" ref="my-main-goal"/>
-    <file name="index.css" crc="184964509" ref="index"/>
-    <file name="nomq_index.css" crc="36872304" ref="index"/>
-    <file name="contact.css" crc="524628752" ref="contact"/>
+    <file name="index.css" crc="301262871" ref="index"/>
+    <file name="nomq_index.css" crc="4062474569" ref="index"/>
+    <file name="contact.css" crc="484788803" ref="contact"/>
     <file name="nomq_contact.css" crc="3857886510" ref="contact"/>
-    <file name="why-me.css" crc="4125064517" ref="why-me"/>
+    <file name="why-me.css" crc="4212909015" ref="why-me"/>
     <file name="nomq_why-me.css" crc="366589302" ref="why-me"/>
   </folder>
   <folder name="scripts">
@@ -116,8 +116,8 @@
     <file name="img_8140-u21421-fr15.jpg" crc="101324921" ref="my-main-goal"/>
     <file name="img_8140-u21421-fr_2x15.jpg" crc="3815103026" ref="my-main-goal"/>
   </folder>
-  <file name="index.html" crc="148070229" seo="true" mt="1542194574792" redirect="true"/>
-  <file name="contact.html" crc="4237621203" seo="true" mt="1542188607080" redirect="true"/>
-  <file name="why-me.html" crc="4247164325" seo="true" mt="1542194561841" redirect="true"/>
-  <file name="my-main-goal.html" crc="132595811" seo="true" mt="1542194574216" redirect="true"/>
+  <file name="index.html" crc="4151385856" seo="true" mt="1542195862837" redirect="true"/>
+  <file name="contact.html" crc="443955261" seo="true" mt="1542195678350" redirect="true"/>
+  <file name="why-me.html" crc="426783053" seo="true" mt="1542195678350" redirect="true"/>
+  <file name="my-main-goal.html" crc="531910815" seo="true" mt="1542195678350" redirect="true"/>
 </manifest>
