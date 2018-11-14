@@ -1,60 +1,120 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="emmimannonen.fi" resolutions="1x,2x" timestamp="1542116190368">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="emmimannonen.fi" resolutions="1x,2x" timestamp="1542158865347">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="460307214" ref="index:contact"/>
-    <file name="nomq_preview_master_a-master.css" crc="282161985" ref="index:contact"/>
-    <file name="index.css" crc="4038061892" ref="index"/>
-    <file name="nomq_index.css" crc="3860958327" ref="index"/>
-    <file name="contact.css" crc="3995471342" ref="contact"/>
-    <file name="nomq_contact.css" crc="3893206710" ref="contact"/>
+    <file name="master_a-master.css" crc="4285935740" ref="index:contact:why-me"/>
+    <file name="nomq_preview_master_a-master.css" crc="3992265551" ref="index:contact:why-me"/>
+    <file name="index.css" crc="3772935579" ref="index"/>
+    <file name="nomq_index.css" crc="3898438109" ref="index"/>
+    <file name="contact.css" crc="4084322080" ref="contact"/>
+    <file name="nomq_contact.css" crc="3999015297" ref="contact"/>
+    <file name="why-me.css" crc="4286749499" ref="why-me"/>
+    <file name="nomq_why-me.css" crc="72625806" ref="why-me"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact"/>
-    <file name="museutils.js" crc="340535759" ref="index:contact"/>
-    <file name="whatinput.js" crc="86476730" ref="index:contact"/>
-    <file name="museconfig.js" crc="310584261" ref="index:contact"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="index:contact"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:contact"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:why-me"/>
+    <file name="museutils.js" crc="340535759" ref="index:contact:why-me"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact:why-me"/>
+    <file name="museconfig.js" crc="310584261" ref="index:contact:why-me"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:contact:why-me"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:contact:why-me"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
-    <file name="webpro.js" crc="4059564322" ref="index:contact"/>
-    <file name="musewpdisclosure.js" crc="3883500470" ref="index:contact"/>
+    <file name="webpro.js" crc="4059564322" ref="index:contact:why-me"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index:contact:why-me"/>
     <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:contact"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="index:contact"/>
-    <file name="require.js" crc="7928878" ref="index:contact"/>
-    <file name="form_check.php" crc="4020933626" ref="contact"/>
-    <file name="form_throttle.php" crc="4259590256" ref="contact"/>
-    <file name="form_process.php" crc="37464564" ref="contact"/>
-    <file name="form-u5738.php" crc="4217287627" ref="contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contact:why-me"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:contact:why-me"/>
+    <file name="require.js" crc="7928878" ref="index:contact:why-me"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index:contact"/>
-    <file name="_mg_9677.jpg" crc="227791933" ref="index">
+    <file name="blank.gif" crc="4208392903" ref="index:contact:why-me"/>
+    <file name="img_8301-u2189-fr.jpg" crc="3972085368" ref="index"/>
+    <file name="img_8301-u2189-fr_2x.jpg" crc="80717985" ref="index"/>
+    <file name="img_8137.jpg" crc="3774431034" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="etusivukuva.jpg" crc="4164454154" ref="index">
+    <file name="img_8137_2x.jpg" crc="3926307510" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="kansikuva3.jpg" crc="442811156" ref="index">
+    <file name="img_8140.jpg" crc="127854313" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="kansikuva32.jpg" crc="3928820639" ref="index">
+    <file name="img_8140_2x.jpg" crc="353748069" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="kansikuva3_2x.jpg" crc="442811156" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="_mg_96772.jpg" crc="38383044" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="_mg_9677_2x.jpg" crc="227791933" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="_mg_9677-u2189-fr.jpg" crc="4053085301" ref="index"/>
-    <file name="_mg_9677-u2189-fr_2x.jpg" crc="4175402555" ref="index"/>
-    <file name="_mg_9677-u2189-fr2.jpg" crc="5468861" ref="index"/>
-    <file name="_mg_9677-u2189-fr_2x2.jpg" crc="223850121" ref="index"/>
+    <file name="img_8301-u2189-fr2.jpg" crc="278398328" ref="index"/>
+    <file name="img_8301-u2189-fr_2x2.jpg" crc="262609933" ref="index"/>
+    <file name="img_8301-u2189-fr3.jpg" crc="449164755" ref="index"/>
+    <file name="img_8301-u2189-fr_2x3.jpg" crc="4141856668" ref="index"/>
+    <file name="img_8301-u2189-fr4.jpg" crc="11713606" ref="index"/>
+    <file name="img_8301-u2189-fr_2x4.jpg" crc="4000516923" ref="index"/>
+    <file name="img_8301-u2189-fr5.jpg" crc="508583883" ref="index"/>
+    <file name="img_8301-u2189-fr_2x5.jpg" crc="4257298837" ref="index"/>
+    <file name="img_8137-u5358-fr.jpg" crc="4257293325" ref="index"/>
+    <file name="img_8137-u5358-fr_2x.jpg" crc="321480186" ref="index"/>
+    <file name="img_8140-u5460-fr.jpg" crc="4085751600" ref="index"/>
+    <file name="img_8140-u5460-fr_2x.jpg" crc="4277891867" ref="index"/>
+    <file name="img_8301-u2189-fr6.jpg" crc="117152224" ref="index"/>
+    <file name="img_8301-u2189-fr_2x6.jpg" crc="193120903" ref="index"/>
+    <file name="img_8137-u5358-fr2.jpg" crc="246471643" ref="index"/>
+    <file name="img_8137-u5358-fr_2x2.jpg" crc="520245513" ref="index"/>
+    <file name="img_8140-u5460-fr2.jpg" crc="3873770959" ref="index"/>
+    <file name="img_8140-u5460-fr_2x2.jpg" crc="4184727497" ref="index"/>
+    <file name="img_8301-u2189-fr7.jpg" crc="492955549" ref="index"/>
+    <file name="img_8301-u2189-fr_2x7.jpg" crc="3766370577" ref="index"/>
+    <file name="img_8137-u5358-fr3.jpg" crc="458189822" ref="index"/>
+    <file name="img_8137-u5358-fr_2x3.jpg" crc="131535253" ref="index"/>
+    <file name="img_8140-u5460-fr3.jpg" crc="237335430" ref="index"/>
+    <file name="img_8140-u5460-fr_2x3.jpg" crc="3802787226" ref="index"/>
+    <file name="img_8301-u2189-fr8.jpg" crc="361553111" ref="index"/>
+    <file name="img_8301-u2189-fr_2x8.jpg" crc="4265065695" ref="index"/>
+    <file name="img_8137-u5358-fr4.jpg" crc="3865997534" ref="index"/>
+    <file name="img_8137-u5358-fr_2x4.jpg" crc="267934317" ref="index"/>
+    <file name="img_8140-u5460-fr4.jpg" crc="305831611" ref="index"/>
+    <file name="img_8140-u5460-fr_2x4.jpg" crc="4191705884" ref="index"/>
+    <file name="img_8301-u2189-fr9.jpg" crc="4138946338" ref="index"/>
+    <file name="img_8301-u2189-fr_2x9.jpg" crc="3793604839" ref="index"/>
+    <file name="img_8137-u5358-fr5.jpg" crc="435762758" ref="index"/>
+    <file name="img_8137-u5358-fr_2x5.jpg" crc="411971436" ref="index"/>
+    <file name="img_8140-u5460-fr5.jpg" crc="4280722388" ref="index"/>
+    <file name="img_8140-u5460-fr_2x5.jpg" crc="93407108" ref="index"/>
+    <file name="img_8301-u2189-fr10.jpg" crc="314967954" ref="index"/>
+    <file name="img_8301-u2189-fr_2x10.jpg" crc="4171295154" ref="index"/>
+    <file name="img_8137-u5358-fr6.jpg" crc="483096949" ref="index"/>
+    <file name="img_8137-u5358-fr_2x6.jpg" crc="3892010928" ref="index"/>
+    <file name="img_8140-u5460-fr6.jpg" crc="276260975" ref="index"/>
+    <file name="img_8140-u5460-fr_2x6.jpg" crc="179993024" ref="index"/>
+    <file name="img_8301-u2189-fr11.jpg" crc="3837031164" ref="index"/>
+    <file name="img_8301-u2189-fr_2x11.jpg" crc="286689830" ref="index"/>
+    <file name="img_8137-u5358-fr7.jpg" crc="406866259" ref="index"/>
+    <file name="img_8137-u5358-fr_2x7.jpg" crc="4286489709" ref="index"/>
+    <file name="img_8140-u5460-fr7.jpg" crc="461052009" ref="index"/>
+    <file name="img_8140-u5460-fr_2x7.jpg" crc="3894720903" ref="index"/>
+    <file name="img_8301-u2189-fr12.jpg" crc="3773455558" ref="index"/>
+    <file name="img_8301-u2189-fr_2x12.jpg" crc="3995091951" ref="index"/>
+    <file name="img_8137-u5358-fr8.jpg" crc="83096363" ref="index"/>
+    <file name="img_8137-u5358-fr_2x8.jpg" crc="67442652" ref="index"/>
+    <file name="img_8140-u5460-fr8.jpg" crc="2761668" ref="index"/>
+    <file name="img_8140-u5460-fr_2x8.jpg" crc="477564230" ref="index"/>
+    <file name="img_8301-u2189-fr13.jpg" crc="34597574" ref="index"/>
+    <file name="img_8301-u2189-fr_2x13.jpg" crc="3957875346" ref="index"/>
+    <file name="img_8137-u5358-fr9.jpg" crc="3955453840" ref="index"/>
+    <file name="img_8137-u5358-fr_2x9.jpg" crc="6482478" ref="index"/>
+    <file name="img_8140-u5460-fr9.jpg" crc="343884141" ref="index"/>
+    <file name="img_8140-u5460-fr_2x9.jpg" crc="3863042446" ref="index"/>
+    <file name="img_8301-u2189-fr14.jpg" crc="4140260951" ref="index"/>
+    <file name="img_8301-u2189-fr_2x14.jpg" crc="123173465" ref="index"/>
+    <file name="img_8137-u5358-fr10.jpg" crc="513328562" ref="index"/>
+    <file name="img_8137-u5358-fr_2x10.jpg" crc="3976216426" ref="index"/>
+    <file name="img_8140-u5460-fr10.jpg" crc="3949314690" ref="index"/>
+    <file name="img_8140-u5460-fr_2x10.jpg" crc="4166086289" ref="index"/>
+    <file name="img_8301-u2189-fr15.jpg" crc="3934475480" ref="index"/>
+    <file name="img_8301-u2189-fr_2x15.jpg" crc="3791511093" ref="index"/>
+    <file name="img_8137-u5358-fr11.jpg" crc="495332174" ref="index"/>
+    <file name="img_8137-u5358-fr_2x11.jpg" crc="4108335118" ref="index"/>
+    <file name="img_8140-u5460-fr11.jpg" crc="378742857" ref="index"/>
+    <file name="img_8140-u5460-fr_2x11.jpg" crc="3774303173" ref="index"/>
   </folder>
-  <file name="index.html" crc="4250239867" seo="true" mt="1542105794588" redirect="true"/>
-  <file name="contact.html" crc="4285580097" seo="true" mt="1542100585218" redirect="true"/>
+  <file name="index.html" crc="490595689" seo="true" mt="1542158838958" redirect="true"/>
+  <file name="contact.html" crc="203760827" seo="true" mt="1542156471989" redirect="true"/>
+  <file name="why-me.html" crc="142433198" seo="true" mt="1542156471989" redirect="true"/>
 </manifest>
